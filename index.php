@@ -9,5 +9,9 @@
 <body>
     <h3>Belajar GIT REMOTE</h3>
     <p>Di pertemuan 6 kita belajar GIT Remot dengan GIT Bash</p>
+        <ul>
+            <li>materi 1</li>
+            <li>materi 2</li>
+        </ul>
 </body>
 </html>
