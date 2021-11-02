@@ -8,5 +8,6 @@
 </head>
 <body>
     <h3>Belajar GIT REMOTE</h3>
+    <p>Di pertemuan 6 kita belajar GIT Remot dengan GIT Bash</p>
 </body>
 </html>
